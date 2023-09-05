@@ -73,7 +73,7 @@
     align-items: center;
     max-height: 281px;
     /* box-sizing: border-box !important; */
-    overflow: hidden !important;
+    /* overflow: hidden !important; */
     /* text-overflow: ellipsis; */
     /* white-space: wrap; */
     /* object-fit: contain; */
